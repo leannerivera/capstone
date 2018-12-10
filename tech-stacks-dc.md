@@ -53,7 +53,7 @@ This tech stack includes the following components:
 ### 3. Django web application
 This tech stack includes the following components:
 * Web front-end
-  * jQuery
+  * Vue.js
 * API back-end
   * Python
   * Django
