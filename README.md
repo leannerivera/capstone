@@ -15,9 +15,8 @@ Ada's collective wisdom gathered:
 - [General Advice](advice.md): a list of advice and wisdom gained over the last several years
 - [Advice for Brainstorming](brainstorming.md)
 
-Class-specific schedules for important deadlines and PM assignments
-- [Edges](edges-class-details.md)
-- [Nodes](nodes-class-details.md)
+Specific schedules for important deadlines and PM assignments
+- [Details](details.md)
 
 Required Pre-Capstone Material:
 - [Capstone Concept Requirements](concept.md)
