@@ -23,7 +23,7 @@ Required Pre-Capstone Material:
 - [Capstone Concept Requirements](concept.md)
 - [Product Plan Requirements](product-plan.md)
 - [Picking a tech stack](tech-stacks.md)
-  - In class, we will do the [Tech Stacks Divide & Conquer Activity](tech-stacks-dc.md) together
+  - In class, we will do the [Tech Stacks Research & Presentation Activity](tech-stacks-dc.md) together
 
 Required Capstone Material:
 - [Group Accountability](groups.md)
