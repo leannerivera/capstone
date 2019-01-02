@@ -7,25 +7,26 @@ The second deliverable for the capstone is your product plan.
 * Web-scraping. 
 * Learning more about spaced-repetition timing and how it is implemented.
 
-1. __Problem Statement__: A clear, concise statement describing the problem your project will solve. Re-use the problem statement from the concept write-up or update if you've made adjustments.
+1. __Problem Statement__: An easier way to collect vocabulary from native sources and review it.
 
 1. __Market Research__: Outline the key insights from your research, including:
-    - several SRS exist independently where users must add or download others' decks. 
-    - research from users on why these alternatives do not effectively address the problem.
-    - it uses real-world information that the user decides on. 
+    - others: several SRS exist independently where users must add or download others' decks. Some are free or paid: Supermemo (paid), anki (free)
+    - mine: it uses real-world information that the user decides on, they don't have to type back and forth, just click and review.
   
 1. __User Personas__: Language-learning students who wish to supplement their endeavors with native material. 
 
 1. __Trello Board__:
-    - Flesh out the feature set that you created in the conceptual delivery to get started with your Trello board
+    - https://trello.com/b/DHbCPcc0
   
 1. __Technology selections__:
-    - Front-end
-    - Back-end
-    - Infrastructure - Deployment or Code
+    So far I have decided on: 
+    - Front-end: React Web
+    - Back-end: Express, Node.js, Mongo, Google Analytics, APIs
+    - AWS
   
 1. __Wireframes__:
     - Any format you may like - photos of paper, online tool and/or paper to show your instructors
+    - I have some things on paper.
 
 ## Format
 Since the Product Plan is part of your final deliverable and should be included in your repository, it would be easiest to do this initial draft in a markdown format for easy transferability to GitHub.
