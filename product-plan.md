@@ -27,6 +27,7 @@ The second deliverable for the capstone is your product plan.
 1. __Wireframes__:
     - Any format you may like - photos of paper, online tool and/or paper to show your instructors
     - I have some things on paper.
+    https://github.com/leannerivera/capstone/blob/master/Wireframe%20snapshot.jpg
 
 ## Format
 Since the Product Plan is part of your final deliverable and should be included in your repository, it would be easiest to do this initial draft in a markdown format for easy transferability to GitHub.
